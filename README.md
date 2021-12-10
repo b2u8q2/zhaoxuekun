@@ -8,4 +8,10 @@ PixelGetcolor, color, 1000, 100
 sleep 100
 if (color=0x2F2924)
 break
+}loop 100
+{
+PixelGetcolor, color, 1000, 100
+sleep 100
+if (color=0x2F2924)
+break
 }
