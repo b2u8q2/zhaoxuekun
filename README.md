@@ -2,3 +2,10 @@ dm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1YXNwK2Ewc2lqbXJLTG92NDdv
 send {PgDn}
 sleep 1000send {PgDn}
 sleep 1000
+loop 100
+{
+PixelGetcolor, color, 1000, 100
+sleep 100
+if (color=0x2F2924)
+break
+}
