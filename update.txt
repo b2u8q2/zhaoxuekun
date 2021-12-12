@@ -1,0 +1,51 @@
+sleep 300
+run https://github.com/lonewolfzhao/zhaoxuekun/edit/main/README.md
+loop 600
+{
+PixelGetcolor, color, 1000, 100
+sleep 100
+if (color=0x2F2924)
+break
+}
+loop 600
+{
+PixelGetcolor, color, 336, 480
+sleep 100
+if (color=0xDED7D0)
+break
+}
+
+click 1000 700
+sleep 500
+click
+click
+sleep 500
+send ^a
+loop 600
+{
+PixelGetcolor, color, 400, 395
+sleep 100
+if (color=0xFFDFBB)
+break
+}
+send ^v
+click 900 350
+send {PgDn}
+loop 240
+{
+PixelGetcolor, color, 500, 905
+sleep 500
+if (color=0x4EA42D)
+break
+}
+click 500 905
+loop 600
+{
+PixelGetcolor, color, 1000, 100
+sleep 100
+if (color=0x2F2924)
+break
+}
+sleep 500
+send ^w
+return
