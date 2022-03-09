@@ -1,100 +1,963 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuMTg3OjgwMDk=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJjbS5kYi1saW5rLmluIiwicHMiOiJkZWZhdWx0X25hbWUiLCJzY3kiOiJhdXRvIiwicHJveHlUeXBlIjoidm1lc3MiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsInBhdGgiOiIvZGIiLCJwb3J0Ijo0NDMsInYiOjIsImhvc3QiOiJ1czAxLmRiLWxpbmsuaW4iLCJ0bHMiOiJ0bHMiLCJpZCI6IjdjZGY1Mjc1LWNiNjUtMzM2My05ODcyLWU5YWEwZDBmNTNmMiIsIm5ldCI6IndzIiwiYWlkIjoxLCJvcmlnaW5OYW1lIjoi8J+HuvCfh7ggVVMgfDE0Ljc4TWIifQ==
-vmess://eyJhZGQiOiJ1c2Eub3JhY2xldXNhLm1sIiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70iLCJzY3kiOiJhdXRvIiwicHJveHlUeXBlIjoidm1lc3MiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsInBhdGgiOiIvIiwicG9ydCI6MjA1MywidiI6MiwiaG9zdCI6InVzYS5vcmFjbGV1c2EubWwiLCJ0bHMiOiJ0bHMiLCJpZCI6IjkyOGQyZGY0LTZjNWUtNDI3NC05YWY0LWIyNzY5ZWE5ZGQ5NiIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoiIHwyNS42ME1iIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE3Mi45OS4xOTAuOTI6NzAwMg==#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-vmess://eyJhZGQiOiIxOTguNDEuMjIxLjE2OSIsInBzIjoiZGVmYXVsdF9uYW1lIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiL3Nha3VyYS8iLCJwb3J0Ijo0NDMsInYiOjIsImhvc3QiOiJ6ZXJvMS5hLXl1Lnh5eiIsInRscyI6InRscyIsImlkIjoiYTg5MTA4MzEtZjU2Yi00YWM0LWM2OGYtZTRkZDgzZjcxZTYwIiwibmV0Ijoid3MiLCJhaWQiOjAsIm9yaWdpbk5hbWUiOiLwn4+BIFpaIHwgMi41OU1iIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDYx#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDEzNC4xOTUuMTk2LjE4Nzo3MDAx#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDE2#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTM0LjE5NS4xOTYuMzo5MTAx#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC45Mjo5MTAy#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDEzNC4xOTUuMTk2LjE4NzoyMzc2#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjgxOjgxMTk=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjgxOjgxMTg=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTM0LjE5NS4xOTYuMTg3OjkxMDI=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJ2aXIyLm9yYWNsZXVzYS5tbCIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9Iiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTMsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM2YjAxYjc4LTI5YjItNDZjOC1hNzliLTQ0OThkZWUyNTM5NiIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+PgSBaWiB8NjkuMjBNYiJ9
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuMzo4MDA4#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMTg3OjMzMDY=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDEzNC4xOTUuMTk2LjM6NzMwNw==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDEzNC4xOTUuMTk2LjY4OjcwMDE=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDEzNC4xOTUuMTk2LjgxOjIzNzY=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDEzNC4xOTUuMTk2LjgxOjUwMDQ=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2OTc=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDUxLjI1NS42Ni4xODU6NzMwNw==#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni44MTo1NTAw#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMTg3OjU2MDA=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE2OS4xOTcuMTQyLjk5OjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2Nzk=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vmess://eyJhZGQiOiJydS5vcmFjbGV1c2EubWwiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+Ht/Cfh7pfUlVf5L+E572X5pav6IGU6YKmIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTMsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM2YjAxYjc4LTI5YjItNDZjOC1hNzliLTQ0OThkZWUyNTM5NiIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+HuvCfh7ggVVMgfDExLjQ5TWIifQ==
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDM4LjE0My42Ni43MTo2Mzc5#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDY1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuNjg6ODAwOQ==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xOTAuOTI6NzMwNg==#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni42ODo1NTAw#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDQx#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDEzNC4xOTUuMTk2LjgxOjcwMDE=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDEzNC4xOTUuMTk2LjgxOjY2Nzk=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJ0ZXN0LjBkYy5jbiIsInBzIjoiZGVmYXVsdF9uYW1lIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywidiI6MiwiaG9zdCI6IiIsInRscyI6InRscyIsImlkIjoiZWJlNTcwM2ItYzE4ZS00NjY0LWMzYTctOWZjZjUyNDUzODk4IiwibmV0Ijoid3MiLCJhaWQiOjAsIm9yaWdpbk5hbWUiOiLwn4+BIFpaIHwzOC44NE1iIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE0Mi4yMDIuNDguODE6ODA5MA==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDEzNC4xOTUuMTk2LjY4OjcwMDI=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni4xODc6ODAwMA==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDEy#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE
-vmess://eyJhZGQiOiJjbWkuZGItbGluay5pbiIsInBzIjoi8J+Hr/Cfh7VfSlBf5pel5pysLT7wn4e68J+HuF9VU1/nvo7lm70iLCJzY3kiOiJhdXRvIiwicHJveHlUeXBlIjoidm1lc3MiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsInBhdGgiOiIvZGIiLCJwb3J0IjoyMTE1MywidiI6MiwiaG9zdCI6InVzMy5kYi1saW5rLmluIiwidGxzIjoidGxzIiwiaWQiOiI3Y2RmNTI3NS1jYjY1LTMzNjMtOTg3Mi1lOWFhMGQwZjUzZjIiLCJuZXQiOiJ3cyIsImFpZCI6MSwib3JpZ2luTmFtZSI6IvCfh6/wn4e1IEpQIHwgNi4zOE1iIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE2OS4xOTcuMTQyLjk5OjgwOTE=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjE4Nzo4MTE5#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUA1MS4yNTUuNjYuMTg1OjgwODA=#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-vmess://eyJhZGQiOiJpZXNlaTFlaS5jb20iLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvSIsInNjeSI6ImF1dG8iLCJwcm94eVR5cGUiOiJ2bWVzcyIsInR5cGUiOiJub25lIiwic25pIjoiIiwicGF0aCI6Ii93cyIsInBvcnQiOjQ0MywidiI6MiwiaG9zdCI6Imllc2VpMWVpLmNvbSIsInRscyI6InRscyIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJhaWQiOjQsIm9yaWdpbk5hbWUiOiLwn4e68J+HuCBVUyB8MTgzLjEwTWIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjE4Nzo4MTE4#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiIxNzIuNjcuNjguNTgiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+Hq/Cfh7dfRlJf5rOV5Zu9Iiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiL3NodWllciIsInBvcnQiOjQ0MywidiI6MiwiaG9zdCI6InhjMS52MnJpZS5wcC51YSIsInRscyI6InRscyIsImlkIjoiZjJmNTc4ZTQtNjkyZC00MGI1LWFmOTktOWYxZGQ3MTJlYjMyIiwibmV0Ijoid3MiLCJhaWQiOjAsIm9yaWdpbk5hbWUiOiLwn4e68J+HuCBVUyB8NTMuNjJNYiJ9
-vmess://eyJhZGQiOiJnb25neWlqcDEueWlnZXdlaXpodWFuZy5jb20iLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+Hr/Cfh7VfSlBf5pel5pysIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwOTYsInYiOjIsImhvc3QiOiJnb25neWlqcDEueWlnZXdlaXpodWFuZy5jb20iLCJ0bHMiOiJ0bHMiLCJpZCI6ImE5NDQ0NmUzLWJlOWMtNDI0MC05YmRmLTliODgxNTVhN2ViNCIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+HuvCfh7ggVVMgfDIxLjMyTWIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDky#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuNjg6NTYwMQ==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk2LjM6NDQz#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuMTg3OjgwMDg=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJzdy5nZndnbGFzcy50ayIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+HrV9DSF/nkZ7lo6siLCJzY3kiOiJhdXRvIiwicHJveHlUeXBlIjoidm1lc3MiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJ2IjoyLCJob3N0IjoiIiwidGxzIjoidGxzIiwiaWQiOiIzNmIwMWI3OC0yOWIyLTQ2YzgtYTc5Yi00NDk4ZGVlMjUzOTYiLCJuZXQiOiJ3cyIsImFpZCI6MSwib3JpZ2luTmFtZSI6IvCfh7rwn4e4IFVTIHw0OC40OE1iIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2LjE4Nzo4MDkw#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDA5#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDQw#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk2LjY4OjQ0NDQ=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjM6ODg4MQ==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDM4LjE0My42Ni43MTo0NDQ0#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDY0#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni4xODc6ODA4MA==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODE6NTYwMA==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni4zOjU1MDA=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDEw#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDEzNC4xOTUuMTk2LjgxOjY2OTc=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjY4OjgxMTg=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTM0LjE5NS4xOTYuODE6OTEwMg==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDYz#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjE4Nzo4ODgy#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODE6NTAwMA==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk2LjY4OjQ0Mw==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDEzNC4xOTUuMTk2LjgxOjYzNzk=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJ2MnJheS5pZnVja2dmdy5nYSIsInBzIjoiZGVmYXVsdF9uYW1lIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiL25CYUczUm1WLyIsInBvcnQiOjg0NDMsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJpZCI6Ijk4YjIwZWVhLThhMTEtMTFlYy05YWViLTUyYWMwMDE0MzQ2YSIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+HuvCfh7hVUyB8NDguNjNNYiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43MzoyMDYy#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
-vmess://eyJhZGQiOiJmci5vcmFjbGV1c2EubWwiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+Hq/Cfh7dfRlJf5rOV5Zu9Iiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywidiI6MiwiaG9zdCI6IiIsInRscyI6InRscyIsImlkIjoiMzZiMDFiNzgtMjliMi00NmM4LWE3OWItNDQ5OGRlZTI1Mzk2IiwibmV0Ijoid3MiLCJhaWQiOjAsIm9yaWdpbk5hbWUiOiLwn4+BIFpaIHw0NS4xME1iIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDAx#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vmess://eyJhZGQiOiJzdy5vcmFjbGV1c2EubWwiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+HqPCfh61fQ0hf55Ge5aOrIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTMsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM2YjAxYjc4LTI5YjItNDZjOC1hNzliLTQ0OThkZWUyNTM5NiIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+PgSBaWiB8NDUuMjBNYiJ9
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDEzNC4xOTUuMTk2LjE4Nzo3MzA2#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTY5LjE5Ny4xNDIuOTk6OTEwMQ==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MDhkZTU2ZS1hZGE3LTRiYWItODZjZS1kYWRkNGJlYWJkNjJAMTIwLjE5Ny44NS43Mzo1MDE5#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDEzNC4xOTUuMTk2LjE4Nzo2Njc5#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-vmess://eyJhZGQiOiJiaS5vcmFjbGV1c2EubWwiLCJwcyI6IvCfh6bwn4eqX0FFX+mYv+iBlOmFiyIsInNjeSI6ImF1dG8iLCJwcm94eVR5cGUiOiJ2bWVzcyIsInR5cGUiOiJub25lIiwic25pIjoiIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUzLCJ2IjoyLCJob3N0IjoiIiwidGxzIjoidGxzIiwiaWQiOiJkOWQyNGNlNC03YWY0LTQ3YjYtODRhMC02ZGQxM2M4YTVjOGQiLCJuZXQiOiJ3cyIsImFpZCI6MCwib3JpZ2luTmFtZSI6IvCfh6bwn4eqIEFFIHwyNC4zM01iIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDUxLjI1NS42Ni4xODU6NDQz#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDEzNC4xOTUuMTk2LjE4Nzo4MDkx#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE0NS4yMzkuNy4xNjQ6MjM3Ng==#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDUxLjI1NS42Ni4xODU6NzAwMg==#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMzozMzA2#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206bWlhb2dlMTEwQDE1OC4xMDEuMjMuMTI2OjExNDk=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vmess://eyJhZGQiOiJnb25neWlzZzEueWlnZXdlaXpodWFuZy5jb20iLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+HuPCfh6xfU0df5paw5Yqg5Z2hIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwOTYsInYiOjIsImhvc3QiOiJnb25neWlzZzEueWlnZXdlaXpodWFuZy5jb20iLCJ0bHMiOiJ0bHMiLCJpZCI6ImE5NDQ0NmUzLWJlOWMtNDI0MC05YmRmLTliODgxNTVhN2ViNCIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+HuvCfh7ggVVMgfCA5LjYwTWIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODE6MzMwNg==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuNjg6ODg4OA==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xOTAuOTI6NDQz#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD
-vmess://eyJhZGQiOiJjbG91ZGZsYXJlLmEteXUueHl6IiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70iLCJzY3kiOiJhdXRvIiwicHJveHlUeXBlIjoidm1lc3MiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsInBhdGgiOiIvc2FrdXJhLyIsInBvcnQiOjQ0MywidiI6MiwiaG9zdCI6Inplcm8yLmEteXUueHl6IiwidGxzIjoidGxzIiwiaWQiOiJhODkxMDgzMS1mNTZiLTRhYzQtYzY4Zi1lNGRkODNmNzFlNjAiLCJuZXQiOiJ3cyIsImFpZCI6MCwib3JpZ2luTmFtZSI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18zMTIyIn0=
-vmess://eyJhZGQiOiJubC5vcmFjbGV1c2EubWwiLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvS0+8J+Hs/Cfh7FfTkxf6I235YWwIiwic2N5IjoiYXV0byIsInByb3h5VHlwZSI6InZtZXNzIiwidHlwZSI6Im5vbmUiLCJzbmkiOiIiLCJwYXRoIjoiLyIsInBvcnQiOjIwNTMsInYiOjIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM2YjAxYjc4LTI5YjItNDZjOC1hNzliLTQ0OThkZWUyNTM5NiIsIm5ldCI6IndzIiwiYWlkIjowLCJvcmlnaW5OYW1lIjoi8J+PgSBaWiB8NTMuMzdNYiJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE2OS4xOTcuMTQyLjk5OjgwOTA=#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMTg3OjU2MDE=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjgxOjg4ODI=#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjNAMTQxLjk1LjAuMjY6ODI2#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDEzNC4xOTUuMTk2LjM6NjM3OQ==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - {name: 🇫🇷 法国(欢迎订阅Youtube破解资源君), server: 51.255.66.185, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君), server: 38.91.100.102, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2, server: c23s3.jamjams.net, port: 61173, type: vmess, uuid: 9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, alterId: 8, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3, server: azure-f4s-hk-1.forwardserver.xyz, port: 32434, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4, server: azure-f4s-hk-1.forwardserver.xyz, port: 30585, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5, server: azure-f4s-hk-1.forwardserver.xyz, port: 30585, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6, server: azure-f4s-hk-1.forwardserver.xyz, port: 32434, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7, server: azure-f4s-hk-1.forwardserver.xyz, port: 44986, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8, server: azure-f4s-hk-1.forwardserver.xyz, port: 41955, type: vmess, uuid: 3b07447e-94cf-4d72-96c6-d0a539098049, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: azure-f4s-hk-1.forwardserver.xyz}}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9, server: 39.earths.team, port: 443, type: trojan, password: b3d27d09-77fe-431d-9829-6eba7dce20b0, sni: 39.earths.team, skip-cert-verify: false}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10, server: 172.99.190.92, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11, server: 134.195.196.187, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12, server: 158.101.23.126, port: 1149, type: ss, cipher: aes-256-gcm, password: miaoge110}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君), server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2, server: iesei1ei.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: iesei1ei.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3, server: cloudflare.xrenblog.com, port: 443, type: vmess, uuid: 6c175d1a-a57f-4881-a471-173eb139694b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /xrenblog/, ws-headers: {Host: ipv6.xrenblog.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4, server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5, server: 208.98.48.2, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: iesei1ei.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6, server: 172.99.190.92, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7, server: 172.99.190.92, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8, server: 172.99.190.92, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9, server: 169.197.142.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10, server: 169.197.142.99, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11, server: 145.239.7.164, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12, server: 145.239.7.164, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13, server: 134.195.196.68, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14, server: 134.195.196.68, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15, server: 134.195.196.68, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16, server: 134.195.196.68, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17, server: 134.195.196.68, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18, server: 134.195.196.3, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19, server: 134.195.196.3, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20, server: 134.195.196.3, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21, server: 134.195.196.3, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22, server: 134.195.196.187, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23, server: 134.195.196.187, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24, server: 134.195.196.187, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25, server: 134.195.196.187, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26, server: 104.16.162.16, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /eisasqa, ws-headers: {Host: foxus.fovi.tk}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27, server: 0306hk01.fans8.xyz, port: 80, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 0306hk01.fans8.xyz}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28, server: 169.197.142.99, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29, server: 134.195.196.81, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30, server: 134.195.196.187, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31, server: 134.195.196.187, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32, server: 134.195.196.81, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33, server: 169.197.142.99, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34, server: 169.197.142.99, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35, server: 169.197.142.99, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36, server: 134.195.196.81, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37, server: 134.195.196.187, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38, server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39, server: 172.99.190.92, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40, server: rq.nodrop.bike, port: 443, type: vmess, uuid: 2f57c29a-cf45-4dc0-985b-86b6f6dd1db4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /onefall.top, ws-headers: {Host: rq.nodrop.bike}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41, server: 119.147.2.248, port: 49517, type: vmess, uuid: a442002a-aabb-4388-9984-7112b33a9f2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 119.147.2.248}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42, server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /ws, ws-headers: {Host: ahdaeph8.com}}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43, server: 169.197.142.99, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44, server: 134.195.196.81, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇯🇵 日本(欢迎订阅Youtube破解资源君), server: icook.hk, port: 443, type: vmess, uuid: 9a85a293-3eb7-4189-e17d-bfa46f9ad0ce, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /freebaipiao, ws-headers: {Host: xmlinodejp2.aifx.eu.org}}
+  - {name: 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2, server: 172.105.222.98, port: 80, type: vmess, uuid: 4e1d0b12-25f0-363f-8659-9c6a3ca1fcda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: 172.105.222.98}}
+  - {name: 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3, server: 0306jp08.fans8.xyz, port: 80, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 0306jp08.fans8.xyz}}
+  - {name: 🇹🇼 台湾(欢迎订阅Youtube破解资源君), server: tw1.nodrop.bike, port: 80, type: vmess, uuid: 60169c3b-0fdb-4e80-8e4e-aa7f9d160bf9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: tw1.nodrop.bike}}
+  - {name: 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2, server: tw1.nodrop.bike, port: 80, type: vmess, uuid: 2f57c29a-cf45-4dc0-985b-86b6f6dd1db4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: tw1.nodrop.bike}}
+  - {name: 🇭🇰 香港(欢迎订阅Youtube破解资源君), server: 39.earths.team, port: 443, type: trojan, password: 6593b778-e45e-4f94-b5ae-641d4b7b02ae, sni: 39.earths.team, skip-cert-verify: false}
+  - {name: 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2, server: 0306hk05.fans8.xyz, port: 80, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 0306hk05.fans8.xyz}}
+proxy-groups:
+  - name: 🎯 总模式
+    type: select
+    proxies:
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🔮 负载均衡
+    type: load-balance
+    url: http://www.gstatic.com/generate_204
+    interval: 180
+    proxies:
+      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君)
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+  - name: ♻️ 延迟最低
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 100
+    proxies:
+      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君)
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+  - name: 🔯 故障转移
+    type: fallback
+    url: http://www.gstatic.com/generate_204
+    interval: 180
+    proxies:
+      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君)
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君)
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+  - name: ▶ YouTube
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🎥 NETFLIX
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🚀 节点选择
+      - 🇫🇷 法国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君)
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 2
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 3
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 4
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 5
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 6
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 7
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 8
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 9
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 10
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 11
+      - 🇺🇸 美国(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君)
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 2
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 3
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 4
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 5
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 6
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 7
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 8
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 9
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 10
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 11
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 12
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 13
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 14
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 15
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 16
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 17
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 18
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 19
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 20
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 21
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 22
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 23
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 24
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 25
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 26
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 27
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 28
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 29
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 30
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 31
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 32
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 33
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 34
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 35
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 36
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 37
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 38
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 39
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 40
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 41
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 42
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 43
+      - 🇪🇺 欧洲(欢迎订阅Youtube破解资源君) 44
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+      - DIRECT
+  - name: 📺 巴哈姆特
+    type: select
+    proxies:
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🚀 节点选择
+      - DIRECT
+  - name: 📺 哔哩哔哩
+    type: select
+    proxies:
+      - DIRECT
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+      - 🚀 节点选择
+  - name: 📺 爱奇艺
+    type: select
+    proxies:
+      - DIRECT
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+      - 🚀 节点选择
+  - name: ⛩ 日韩媒体
+    type: select
+    proxies:
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君)
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 2
+      - 🇯🇵 日本(欢迎订阅Youtube破解资源君) 3
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🌏 港台媒体
+    type: select
+    proxies:
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君)
+      - 🇹🇼 台湾(欢迎订阅Youtube破解资源君) 2
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君)
+      - 🇭🇰 香港(欢迎订阅Youtube破解资源君) 2
+      - 🚀 节点选择
+      - DIRECT
+  - name: 📡 Emby公益服
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🎵 TikTok
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🧩 微软服务
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 📲 聊天软件
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🇧🇹 BT&PT
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🇺🇳 国外网站
+    type: select
+    proxies:
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+      - DIRECT
+  - name: 🇨🇳 国内网站
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🎮 游戏平台
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 总模式
+      - 🔮 负载均衡
+      - ♻️ 延迟最低
+      - 🔯 故障转移
+      - 🚀 节点选择
+  - name: ⛔ 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+rules:
+ - DOMAIN-SUFFIX,ip6-localhost,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,ip6-loopback,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,local,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,localhost,🇨🇳 国内网站
+ - DOMAIN,router.asus.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,hiwifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,leike.cc,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,miwifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,my.router,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,p.to,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,peiluyou.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,phicomm.me,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,routerlogin.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,tendawifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,zte.home,🇨🇳 国内网站
+ - IP-CIDR,224.0.0.251/32,🇨🇳 国内网站
+ - IP-CIDR,224.0.0.252/32,🇨🇳 国内网站
+ - IP-CIDR,239.255.255.250/32,🇨🇳 国内网站
+ - IP-CIDR,240.1.0.6/32,🇨🇳 国内网站
+ - DOMAIN,www.zhjtong.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,zhjtong.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,time.is,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,seetong.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,app-measurement.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,msiv.tv,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,ip6-localhost,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,ip6-loopback,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,local,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,localhost,🇨🇳 国内网站
+ - IP-CIDR,10.0.0.0/8,🇨🇳 国内网站,no-resolve
+ - IP-CIDR,100.64.0.0/10,🇨🇳 国内网站,no-resolve
+ - IP-CIDR,127.0.0.0/8,🇨🇳 国内网站,no-resolve
+ - IP-CIDR,172.16.0.0/12,🇨🇳 国内网站,no-resolve
+ - IP-CIDR,192.168.0.0/16,🇨🇳 国内网站,no-resolve
+ - IP-CIDR,198.18.0.0/16,🇨🇳 国内网站,no-resolve
+ - IP-CIDR6,::1/128,🇨🇳 国内网站,no-resolve
+ - IP-CIDR6,fc00::/7,🇨🇳 国内网站,no-resolve
+ - IP-CIDR6,fe80::/10,🇨🇳 国内网站,no-resolve
+ - IP-CIDR6,fd00::/8,🇨🇳 国内网站,no-resolve
+ - DOMAIN,router.asus.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,hiwifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,leike.cc,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,miwifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,my.router,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,p.to,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,peiluyou.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,phicomm.me,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,routerlogin.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,tendawifi.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,zte.home,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,dizhensubao.getui.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,🇨🇳 国内网站
+ - DOMAIN,origin-a.akamaihd.net,🇨🇳 国内网站
+ - DOMAIN,livew.l.qq.com,🇨🇳 国内网站
+ - DOMAIN,vd.l.qq.com,🇨🇳 国内网站
+ - DOMAIN,analytics.strava.com,🇨🇳 国内网站
+ - DOMAIN,msg.umeng.com,🇨🇳 国内网站
+ - DOMAIN,msg.umengcloud.com,🇨🇳 国内网站
+ - DOMAIN,tracking.miui.com,🇨🇳 国内网站
+ - DOMAIN,app.adjust.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,sellercentral.amazon.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,advertising.amazon.com,🇨🇳 国内网站
+ - DOMAIN,checkip.synology.com,🇨🇳 国内网站
+ - DOMAIN,checkipv6.synology.com,🇨🇳 国内网站
+ - DOMAIN,checkport.synology.com,🇨🇳 国内网站
+ - DOMAIN-SUFFIX,ol.epicgames.com,🇨🇳 国内网站
+ - DOMAIN-KEYWORD,1drv,🧩 微软服务
+ - DOMAIN-KEYWORD,microsoft,🧩 微软服务
+ - DOMAIN-SUFFIX,aadrm.com,🧩 微软服务
+ - DOMAIN-SUFFIX,acompli.com,🧩 微软服务
+ - DOMAIN-SUFFIX,acompli.net,🧩 微软服务
+ - DOMAIN-SUFFIX,aka.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,aspnetcdn.com,🧩 微软服务
+ - DOMAIN-SUFFIX,assets-yammer.com,🧩 微软服务
+ - DOMAIN-SUFFIX,azure.com,🧩 微软服务
+ - DOMAIN-SUFFIX,azure.net,🧩 微软服务
+ - DOMAIN-SUFFIX,azureedge.net,🧩 微软服务
+ - DOMAIN-SUFFIX,azurerms.com,🧩 微软服务
+ - DOMAIN-SUFFIX,bing.com,🧩 微软服务
+ - DOMAIN-SUFFIX,cloudapp.net,🧩 微软服务
+ - DOMAIN-SUFFIX,cloudappsecurity.com,🧩 微软服务
+ - DOMAIN-SUFFIX,edgesuite.net,🧩 微软服务
+ - DOMAIN-SUFFIX,gfx.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,hotmail.com,🧩 微软服务
+ - DOMAIN-SUFFIX,live.com,🧩 微软服务
+ - DOMAIN-SUFFIX,live.net,🧩 微软服务
+ - DOMAIN-SUFFIX,lync.com,🧩 微软服务
+ - DOMAIN-SUFFIX,msappproxy.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msauth.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msauthimages.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msecnd.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msedge.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msft.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msftauth.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msftauthimages.net,🧩 微软服务
+ - DOMAIN-SUFFIX,msftidentity.com,🧩 微软服务
+ - DOMAIN-SUFFIX,msidentity.com,🧩 微软服务
+ - DOMAIN-SUFFIX,msn.com,🧩 微软服务
+ - DOMAIN-SUFFIX,msocdn.com,🧩 微软服务
+ - DOMAIN-SUFFIX,msocsp.com,🧩 微软服务
+ - DOMAIN-SUFFIX,mstea.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,o365weve.com,🧩 微软服务
+ - DOMAIN-SUFFIX,oaspapps.com,🧩 微软服务
+ - DOMAIN-SUFFIX,office.com,🧩 微软服务
+ - DOMAIN-SUFFIX,office.net,🧩 微软服务
+ - DOMAIN-SUFFIX,office365.com,🧩 微软服务
+ - DOMAIN-SUFFIX,officeppe.net,🧩 微软服务
+ - DOMAIN-SUFFIX,omniroot.com,🧩 微软服务
+ - DOMAIN-SUFFIX,onenote.com,🧩 微软服务
+ - DOMAIN-SUFFIX,onenote.net,🧩 微软服务
+ - DOMAIN-SUFFIX,onestore.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,outlook.com,🧩 微软服务
+ - DOMAIN-SUFFIX,outlookmobile.com,🧩 微软服务
+ - DOMAIN-SUFFIX,phonefactor.net,🧩 微软服务
+ - DOMAIN-SUFFIX,public-trust.com,🧩 微软服务
+ - DOMAIN-SUFFIX,sfbassets.com,🧩 微软服务
+ - DOMAIN-SUFFIX,sfx.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,sharepoint.com,🧩 微软服务
+ - DOMAIN-SUFFIX,sharepointonline.com,🧩 微软服务
+ - DOMAIN-SUFFIX,skype.com,🧩 微软服务
+ - DOMAIN-SUFFIX,skypeassets.com,🧩 微软服务
+ - DOMAIN-SUFFIX,skypeforbusiness.com,🧩 微软服务
+ - DOMAIN-SUFFIX,staffhub.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,svc.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,sway-cdn.com,🧩 微软服务
+ - DOMAIN-SUFFIX,sway-extensions.com,🧩 微软服务
+ - DOMAIN-SUFFIX,sway.com,🧩 微软服务
+ - DOMAIN-SUFFIX,trafficmanager.net,🧩 微软服务
+ - DOMAIN-SUFFIX,virtualearth.net,🧩 微软服务
+ - DOMAIN-SUFFIX,visualstudio.com,🧩 微软服务
+ - DOMAIN-SUFFIX,windows-ppe.net,🧩 微软服务
+ - DOMAIN-SUFFIX,windows.com,🧩 微软服务
+ - DOMAIN-SUFFIX,windows.net,🧩 微软服务
+ - DOMAIN-SUFFIX,windowsazure.com,🧩 微软服务
+ - DOMAIN-SUFFIX,windowsupdate.com,🧩 微软服务
+ - DOMAIN-SUFFIX,wunderlist.com,🧩 微软服务
+ - DOMAIN-SUFFIX,yammer.com,🧩 微软服务
+ - DOMAIN-SUFFIX,yammerusercontent.com,🧩 微软服务
+ - DOMAIN-KEYWORD,onedrive,🧩 微软服务
+ - DOMAIN-KEYWORD,skydrive,🧩 微软服务
+ - DOMAIN-SUFFIX,livefilestore.com,🧩 微软服务
+ - DOMAIN-SUFFIX,oneclient.sfx.ms,🧩 微软服务
+ - DOMAIN-SUFFIX,onedrive.com,🧩 微软服务
+ - DOMAIN-SUFFIX,onedrive.live.com,🧩 微软服务
+ - DOMAIN-SUFFIX,photos.live.com,🧩 微软服务
+ - DOMAIN-SUFFIX,skydrive.wns.windows.com,🧩 微软服务
+ - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🧩 微软服务
+ - DOMAIN-SUFFIX,storage.live.com,🧩 微软服务
+ - DOMAIN-SUFFIX,storage.msn.com,🧩 微软服务
+ - DOMAIN-KEYWORD,-tiktokcdn-com,🎵 TikTok
+ - DOMAIN-SUFFIX,byteoversea.com,🎵 TikTok
+ - DOMAIN-SUFFIX,ibytedtos.com,🎵 TikTok
+ - DOMAIN-SUFFIX,ipstatp.com,🎵 TikTok
+ - DOMAIN-SUFFIX,muscdn.com,🎵 TikTok
+ - DOMAIN-SUFFIX,musical.ly,🎵 TikTok
+ - DOMAIN-SUFFIX,tik-tokapi.com,🎵 TikTok
+ - DOMAIN-SUFFIX,tiktok.com,🎵 TikTok
+ - DOMAIN-SUFFIX,tiktokcdn.com,🎵 TikTok
+ - DOMAIN-SUFFIX,tiktokv.com,🎵 TikTok
+ - DOMAIN-KEYWORD,youtube,▶ YouTube
+ - DOMAIN,youtubei.googleapis.com,▶ YouTube
+ - DOMAIN,yt3.ggpht.com,▶ YouTube
+ - DOMAIN-SUFFIX,googlevideo.com,▶ YouTube
+ - DOMAIN-SUFFIX,gvt2.com,▶ YouTube
+ - DOMAIN-SUFFIX,youtu.be,▶ YouTube
+ - DOMAIN-SUFFIX,youtube.com,▶ YouTube
+ - DOMAIN-SUFFIX,ytimg.com,▶ YouTube
+ - DOMAIN-KEYWORD,dualstack.apiproxy-,🎥 NETFLIX
+ - DOMAIN-KEYWORD,dualstack.ichnaea-web-,🎥 NETFLIX
+ - DOMAIN,netflix.com.edgesuite.net,🎥 NETFLIX
+ - DOMAIN-SUFFIX,fast.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflix.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflix.net,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest0.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest1.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest2.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest3.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest4.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest5.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest6.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest7.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest8.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,netflixdnstest9.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,nflxext.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,nflximg.com,🎥 NETFLIX
+ - DOMAIN-SUFFIX,nflximg.net,🎥 NETFLIX
+ - DOMAIN-SUFFIX,nflxso.net,🎥 NETFLIX
+ - DOMAIN-SUFFIX,nflxvideo.net,🎥 NETFLIX
+ - IP-CIDR,8.41.4.0/24,🎥 NETFLIX,no-resolve
+ - IP-CIDR,23.246.0.0/18,🎥 NETFLIX,no-resolve
+ - IP-CIDR,34.210.42.111/32,🎥 NETFLIX,no-resolve
+ - IP-CIDR,37.77.184.0/21,🎥 NETFLIX,no-resolve
+ - IP-CIDR,38.72.126.0/24,🎥 NETFLIX,no-resolve
+ - IP-CIDR,45.57.0.0/17,🎥 NETFLIX,no-resolve
+ - IP-CIDR,52.89.124.203/32,🎥 NETFLIX,no-resolve
+ - IP-CIDR,54.148.37.5/32,🎥 NETFLIX,no-resolve
+ - IP-CIDR,64.120.128.0/17,🎥 NETFLIX,no-resolve
+ - IP-CIDR,66.197.128.0/17,🎥 NETFLIX,no-resolve
+ - IP-CIDR,69.53.224.0/19,🎥 NETFLIX,no-resolve
+ - IP-CIDR,103.87.204.0/22,🎥 NETFLIX,no-resolve
+ - IP-CIDR,108.175.32.0/20,🎥 NETFLIX,no-resolve
+ - IP-CIDR,185.2.220.0/22,🎥 NETFLIX,no-resolve
+ - IP-CIDR,185.9.188.0/22,🎥 NETFLIX,no-resolve
+ - IP-CIDR,192.173.64.0/18,🎥 NETFLIX,no-resolve
+ - IP-CIDR,198.38.96.0/19,🎥 NETFLIX,no-resolve
+ - IP-CIDR,198.45.48.0/20,🎥 NETFLIX,no-resolve
+ - IP-CIDR,207.45.72.0/22,🎥 NETFLIX,no-resolve
+ - IP-CIDR,208.75.76.0/22,🎥 NETFLIX,no-resolve
+ - DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,linetv.tw,🌏 港台媒体
+ - DOMAIN-SUFFIX,profile.line-scdn.net,🌏 港台媒体
+ - DOMAIN,kktv-theater.kk.stream,🌏 港台媒体
+ - DOMAIN-SUFFIX,kktv.com.tw,🌏 港台媒体
+ - DOMAIN-SUFFIX,kktv.me,🌏 港台媒体
+ - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,litv.tv,🌏 港台媒体
+ - DOMAIN,mytvsuperlimited.hb.omtrdc.net,🌏 港台媒体
+ - DOMAIN,mytvsuperlimited.sc.omtrdc.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,mytvsuper.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,tvb.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,neulion.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,icntv.xyz,🌏 港台媒体
+ - DOMAIN-SUFFIX,flzbcdn.xyz,🌏 港台媒体
+ - DOMAIN-SUFFIX,5itv.tv,🌏 港台媒体
+ - DOMAIN-SUFFIX,ocnttv.com,🌏 港台媒体
+ - DOMAIN,api.viu.now.com,🌏 港台媒体
+ - DOMAIN,d1k2us671qcoau.cloudfront.net,🌏 港台媒体
+ - DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌏 港台媒体
+ - DOMAIN,dfp6rglgjqszk.cloudfront.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,bootstrapcdn.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,cloudfront.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,firebaseio.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,jwpcdn.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,jwplayer.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,nowe.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,viu.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,viu.now.com,🌏 港台媒体
+ - DOMAIN-SUFFIX,viu.tv,🌏 港台媒体
+ - DOMAIN,hamifans.emome.net,🌏 港台媒体
+ - DOMAIN-SUFFIX,skyking.com.tw,🌏 港台媒体
+ - DOMAIN,intel-cache.m.iqiyi.com,📺 爱奇艺
+ - DOMAIN,intel-cache.video.iqiyi.com,📺 爱奇艺
+ - DOMAIN,intl-rcd.iqiyi.com,📺 爱奇艺
+ - DOMAIN,intl-subscription.iqiyi.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,71.am,📺 爱奇艺
+ - DOMAIN-SUFFIX,71edge.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,inter.iqiyi.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,inter.ptqy.gitv.tv,📺 爱奇艺
+ - DOMAIN-SUFFIX,intl.iqiyi.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,iq.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,iqiyi.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,iqiyipic.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,ppsimg.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,qiyi.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,qiyipic.com,📺 爱奇艺
+ - DOMAIN-SUFFIX,qy.net,📺 爱奇艺
+ - IP-CIDR,23.40.241.251/32,📺 爱奇艺,no-resolve
+ - IP-CIDR,23.40.242.10/32,📺 爱奇艺,no-resolve
+ - IP-CIDR,103.44.56.0/22,📺 爱奇艺,no-resolve
+ - IP-CIDR,118.26.32.0/23,📺 爱奇艺,no-resolve
+ - IP-CIDR,118.26.120.0/24,📺 爱奇艺,no-resolve
+ - IP-CIDR,223.119.62.225/28,📺 爱奇艺,no-resolve
+ - DOMAIN-KEYWORD,announce,🇧🇹 BT&PT
+ - DOMAIN-KEYWORD,torrent,🇧🇹 BT&PT
+ - DOMAIN-KEYWORD,tracker,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,52pt.site,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,aidoru-online.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,alpharatio.cc,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,animebytes.tv,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,animetorrents.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,anthelion.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,asiancinema.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,avgv.cc,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,avistaz.to,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,awesome-hd.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,beitai.pt,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,beyond-hd.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,bibliotik.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,bittorrent.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,blutopia.xyz,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,broadcasthe.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,bt.byr.cn,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,bt.neu6.edu.cn,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,btschool.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,bwtorrents.tv,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,ccfbits.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,cgpeers.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,chdbits.co,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,cinemageddon.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,cinematik.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,cinemaz.to,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,classix-unlimited.co.uk,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,concertos.live,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,dicmusic.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,discfan.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,dxdhd.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,eastgame.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,empornium.is,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,empornium.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,empornium.sx,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,et8.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,exoticaz.to,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,extremlymtorrents.ws,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,filelist.io,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,gazellegames.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,gfxpeers.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hd-space.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hd-torrents.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hd4.xyz,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hd4fans.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdarea.co,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdatmos.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdbd.us,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdbits.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdchina.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdcity.city,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hddolby.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdfans.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdhome.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdpost.top,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdroute.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdsky.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdstreet.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdtime.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdupt.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hdzone.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hitpt.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hitpt.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,hudbt.hust.edu.cn,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,icetorrent.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,iptorrents.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,j99.info,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,joyhd.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,jpopsuki.eu,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,karagarga.in,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,keepfrds.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,leaguehd.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,lztr.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,m-team.cc,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,madsrevolution.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,moecat.best,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,morethan.tv,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,msg.vg,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,myanonamouse.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,nanyangpt.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,ncore.cc,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,nebulance.io,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,nicept.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,npupt.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,nwsuaf6.edu.cn,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,open.cd,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,oppaiti.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,orpheus.network,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,ourbits.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,passthepopcorn.me,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,pornbits.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,privatehd.to,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,pterclub.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,pthome.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,ptsbao.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,pussytorrents.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,redacted.ch,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,sdbits.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,sjtu.edu.cn,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,skyey2.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,skyeysnow.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,soulvoice.club,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,springsunday.net,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,tjupt.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,torrentday.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,torrentleech.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,torrentseeds.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,totheglory.im,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,trontv.com,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,u2.dmhy.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,uhdbits.org,🇧🇹 BT&PT
+ - DOMAIN-SUFFIX,xauat6.edu.cn,🇧🇹 BT&PT
+ - GEOIP,CN,🇨🇳 国内网站
+ - MATCH,🐟 漏网之鱼
